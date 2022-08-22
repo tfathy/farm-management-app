@@ -1,0 +1,7 @@
+{
+  "name": "farm-management-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
